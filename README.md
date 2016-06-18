@@ -3,8 +3,9 @@
 Uma rede de hoteis operando em Belo Horizonte deseja oferecer serviços de reserva
 online. Eles possuem três hotéis: The Carlyle, The Plaza e Royal Hotel. Cada hotel
 tem preços diferentes durante à semana e final de semana. Existem ainda preços
-diferenciados para clientes vip. Cada hotel tem uma quantidade de estrelas associada
-a ele
+diferenciados para clientes vip. 
+
+## Cada hotel tem uma quantidade de estrelas associada a ele:
 
 ```
   - The Carlyle possui 3 estrelas, sua diária durante à semana é R$110 para
