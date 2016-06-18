@@ -34,7 +34,7 @@ preços, o hotel com mais estrelas deverá ser retornado.
   2. The Plaza: R$280
   3. Royal Hotel: R$240
 
-
+## Como rodar reserva-hotel-api
 ```
 git clone https://github.com/Ricardolv/reserva-hotel-api.git
 
