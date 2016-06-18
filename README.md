@@ -11,9 +11,11 @@ diferenciados para clientes vip.
   - The Carlyle possui 3 estrelas, sua diária durante à semana é R$110 para
     clientes regulares e R$80 para clientes vips. Durante o fim de semana os
     preços são R$90 para clientes regulares e R$80 para clientes vips.
+    
   - The Plaza possui 4 estrelas, sua diária durante à semana é R$160 para
     clientes regulares e R$110 para clientes vips. Durante o fim de semana os
     preços são R$60 para clientes regulares e R$50 para clientes vips.
+  
   - Royal Hotel possui 5 estrelas, sua diária durante à semana é R$220 para
     clientes regulares e R$100 para clientes vips. Durante o fim de semana os
     preços são R$150 para clientes regulares e R$40 para clientes vips.
