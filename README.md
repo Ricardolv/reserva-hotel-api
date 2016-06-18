@@ -42,8 +42,11 @@ cd reserva-hotel-api
 mvn clean install
 cd target
 
-java -jar reserva-hotel-1.0.jar /path/input-data.txt
+java -jar reserva-hotel-1.0.jar /path/input-data.txt 
+obs: reserva-hotel-api/src/main/resources/input-data.txt
+
 ou
+
 java -jar reserva-hotel-1.0.jar
 ```
 
