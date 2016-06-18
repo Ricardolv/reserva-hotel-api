@@ -17,10 +17,10 @@ diferenciados para clientes vip.
   - Royal Hotel possui 5 estrelas, sua diária durante à semana é R$220 para
     clientes regulares e R$100 para clientes vips. Durante o fim de semana os
     preços são R$150 para clientes regulares e R$40 para clientes vips.
-  - Seu software deverá encontrar o melhor hotel para o cliente se hospedar. O melhor
-    hotel é aquele que fornecer o melhor preço no total de diárias. Em caso de empate de
-    preços, o hotel com mais estrelas deverá ser retornado.
 ```
+O software deverá encontrar o melhor hotel para o cliente se hospedar. O melhor
+hotel é aquele que fornecer o melhor preço no total de diárias. Em caso de empate de
+preços, o hotel com mais estrelas deverá ser retornado.
 
 ##Exemplo de entrada:
   1. Regular: 16Mar2015(seg), 17Mar2015(ter), 18Mar2015(qua)
